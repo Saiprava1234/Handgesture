@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to right, #ffff00 0%, #ff3399 100%);
+    color: white;
+}
+label{
+    background: white;
+    padding: 5px;
+    color: black;
+    border-radius: 10px;
+}
+.emoji
+{
+  font-size: 48px;
+}
+.heading
+{
+  font-size: 30px;
+  border-radius: 5px;
+  letter-spacing: 10px;
+}
+span
+{
+  font-size: 20px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name, #update_gesture
+{
+  padding-top: 10px;
+  color: black;
+  font-size: 50px;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
